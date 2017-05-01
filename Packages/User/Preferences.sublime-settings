@@ -1,0 +1,39 @@
+{
+	"added_words":
+	[
+		"online"
+	],
+	"caret_style": "wide",
+	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
+	"detect_indentation": false,
+	"detect_slow_plugins": false,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"Emmet Css Snippets",
+		"SFTP",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"indent_to_bracket": true,
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"rulers":
+	[
+		120
+	],
+	"shift_tab_unindent": true,
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "ayu-dark.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true
+}
